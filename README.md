@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 </p>
 
 ### ✨ Identity
-<p>Name : Saryu <br> Age : 14 <br> Status: Junior High School Student</p>
-
+<strong>
+  <p>Name : Saryu <br> Age : 14 <br> Status:    Junior High School Student</p>
+</strong>
