@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rdxry01&show_icons=true&theme=tokyonight" />
 </p>
+
+### ✨ Identity
+<p>Name : Saryu <br> Age : 14 <br> Status: Junior High School Student</p>
+
