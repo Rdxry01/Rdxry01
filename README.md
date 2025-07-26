@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi My Profile 👇🏻✊🏻
 
 <!--
 **Rdxry01/Rdxry01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Termux](https://img.shields.io/badge/-Termux-000000?style=flat&logo=gnubash)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ...
 
 ---
