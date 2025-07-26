@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://yourimagehost.com/banner.jpg" width="100%" />
+  <img src="https://files.catbox.moe/2xxc9n.jpg" width="100%" />
 </p>
 
 <h2 align="center">Hi there 👋, I'm Saryu</h2>
-<p align="center">🌱 14 y/o | Belajar web & bot | Linux + Proot user</p>
+<p align="center">🌱 14 y/o | Learning web dev | Linux + Proot user</p>
 
 ---
 
