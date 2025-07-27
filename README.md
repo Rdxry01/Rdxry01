@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://files.catbox.moe/2xxc9n.jpg" width="100%" />
+![gif](Gif/ssstik.io_livewallpaper__anime_1751791202232-ezgif.com-video-to-gif-converter)
+  <img src="" width="100%" />
 </p>
 
 <h2 align="center">Hi there 👋, I'm Saryu</h2>
