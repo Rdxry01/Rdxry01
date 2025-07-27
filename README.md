@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-![gif](Gif/ssstik.io_livewallpaper__anime_1751791202232-ezgif.com-video-to-gif-converter).
+![gif](Gif/Gif/ssstik.io_livewallpaper__anime_1751791202232-ezgif.com-video-to-gif-converter.gif).
   <img src="" width="100%" />
 </p>
 
