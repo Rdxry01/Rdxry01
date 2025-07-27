@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-![gif](./assets/my.gif).
+![gif](Gif/my.gif).
   <img src="" width="100%" />
 </p>
 
