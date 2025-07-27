@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![gif](./Gif/my.gif)
 <p align="center">
-![gif](Gif/my.gif).
   <img src="" width="100%" />
 </p>
 
